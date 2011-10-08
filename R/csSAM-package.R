@@ -90,10 +90,14 @@ NULL
 #' 
 #' # Now run, either using the wrapper 
 #' # NB: more permutations would be needed for real data
-#' deconvResults = csSamWrapper(G, cc, y, nperms = 50, alternative = "two.sided", standardize = TRUE, medianCenter = TRUE,fileName = fileName)
+#' deconvResults = csSamWrapper(G, cc, y, nperms = 50, alternative = "two.sided"
+#' 								, standardize = TRUE
+#' 								, medianCenter = TRUE
+#' 								, fileName = fileName)
 #' 
-#' # Or by calling each function independently 
-#' # (e.g. useful if you want to perform only cell-specific expression without differential expression).
+#' # Or by calling each function independently: 
+#' # this is useful if you want to perform only cell-specific expression 
+#' # without differential expression.
 #' \dontrun{
 #' numset = nlevels(y)
 #' n <- summary(y, maxsum=Inf) # number of samples in each class

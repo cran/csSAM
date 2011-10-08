@@ -1,12 +1,13 @@
-9166d1a50617a7088607b77c7493cf44 *DESCRIPTION
+2755c302a63d59af15b43177379d125d *DESCRIPTION
 012592abf4b40a8d741b299df2ded05a *NAMESPACE
-3808fbf1ee73d998df66760d8f6e3069 *R/csSAM-package.R
+b101508fd8a9a794768bce8c17e863f9 *NEWS
+f47f1c43b0cac51ab2e4eba65b178c77 *R/csSAM-package.R
 cc4a05b908ba887a74f3b7922aae815e *R/csSAM.R
 3b67cbc425cd2d1264ffe56b5cd85e3b *R/csSamWrapper.R
 9d9da4dfd474b7aa03e7796a87cfcc88 *R/csfit.R
-e29150c4ec521d80040ad2e4ca1ab0db *R/fdrCsSAM.R
+4507f021093931c2eef8d4fb75c0e536 *R/fdrCsSAM.R
 0de515cba9b0845370f60477ca50fb0f *R/fdrSAM.R
-8601434ff908d7c361edd01c45022c76 *R/findSigGene.R
+51cda3c85d599bd68fa6eb0fd3f2fe1f *R/findSigGene.R
 c44bd0e21e4a8090d17fb9c176e50979 *R/make.monotone.R
 f88078cc90d715128a77fb72fd2fb3c2 *R/plotCsSAM.R
 c82e9ce586e82e0372bdb7ade1107860 *R/runSAM.R
@@ -14,7 +15,7 @@ a1fd775488d7d28f7362bd9646272bd3 *R/ttest.func.R
 a83c816def7d30dcdfbfe9efa0872ab0 *R/varr.R
 da26d0f358952f6e0390d84c59f3d4f4 *inst/REFERENCES.bib
 7a1e62ea3e85f35906d587832518b82b *man/csSAM-internal.Rd
-96a82a476cdd5c388744b0f7d5e53701 *man/csSAM-package.Rd
+df987fc1818bf1fa2fa8b08a9211df1a *man/csSAM-package.Rd
 cb5897a64d0251adf05debf1a278dcf3 *man/csSAM.Rd
 d748d82fb929af961467c8d91ef8eaa6 *man/csSamWrapper.Rd
 66232b685855619a22bf0def354c8308 *man/csfit.Rd
@@ -23,3 +24,4 @@ aa7fd18e6e7d983f641346395f22fa7f *man/fdrSAM.Rd
 4edddcb2d5d16a3f7064dfde635e0183 *man/findSigGene.Rd
 cd215f271f4cd35baa56924d8cba7352 *man/plotCsSAM.Rd
 d52fc1ccf6bb1a7db1ee690d8b1871ae *man/runSAM.Rd
+6d7769a9819babc614e1000bfb80b401 *test.html
